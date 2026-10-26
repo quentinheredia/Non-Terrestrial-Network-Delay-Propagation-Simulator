@@ -1,5 +1,4 @@
-# NET4000-Team-15
-
+# NTN Machine Learning Delay Simulation
 **Team Members:**
 
 - Ishani Singh
